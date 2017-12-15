@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<lista_libros>
+
+    <libro isbn="1234567890123" paginas="452" titulo="Harry Potter y la piedra filosofal">
+
+        <portada></portada>
+
+        <autor>J. K. Rowling</autor>
+
+        <editorial>BritishPap</editorial>
+
+        <genero>Fantasía</genero>
+
+        <reservas>
+
+            <reserva codigo="r1">
+                <fecha></fecha>
+                <usuario></usuario>
+            </reserva>
+
+            <reserva codigo="r2">
+                <fecha></fecha>
+                <usuario></usuario>
+            </reserva>
+        </reservas>
+    </libro>
+
+    <libro isbn="3003003003003" paginas="300">
+        <titulo>300</titulo>
+        <autor>Trevor Sents</autor>        
+        <editorial></editorial>
+        <genero>Comedia Romantica</genero>
+
+        <reservas>
+
+            <reserva codigo="r1">
+                <fecha></fecha>
+                <usuario></usuario>
+            </reserva>
+
+            <reserva codigo="r2">
+                <fecha></fecha>
+                <usuario></usuario>
+            </reserva>
+        </reservas>
+
+    </libro>
+
+    <libro codigo="l3" paginas="666">
+        <titulo></titulo>
+        <autor></autor>
+        <ISBN>1234567890123</ISBN>
+        <editorial></editorial>
+        <genero></genero>
+
+        <reservas>
+
+            <reserva codigo="r3">
+                <fecha></fecha>
+                <usuario></usuario>
+            </reserva>
+
+            <reserva codigo="r4">
+                <fecha></fecha>
+                <usuario></usuario>
+            </reserva>
+        </reservas>
+
+    </libro>
+
+    <libro codigo="l4" paginas="215">
+        <titulo></titulo>
+        <autor></autor>
+        <ISBN>1234567890123</ISBN>
+        <editorial></editorial>
+        <genero></genero>
+
+        <reservas>
+
+            <reserva codigo="r5">
+                <fecha></fecha>
+                <usuario></usuario>
+            </reserva>
+
+            <reserva codigo="r6">
+                <fecha></fecha>
+                <usuario></usuario>
+            </reserva>
+        </reservas>
+
+    </libro>
+
+
+</lista_libros>
