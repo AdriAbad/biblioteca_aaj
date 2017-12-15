@@ -1,0 +1,76 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE 
+	html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+	"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es">
+<head>
+	<title>Registro de Usuario</title>
+	<meta charset="UTF-16"> 
+	<link rel="stylesheet" type="text/css" href="css/style.css"/>
+</head>
+<body>
+
+	<h1 align= "center">Registro de Usuario:</h1>
+
+	<table align= "center">
+
+		<tr>
+			<td> Nombre:</td>
+			<td><form action="/action_page.php"><input type="text" name="firstname" pattern= "{4-16}" value=""></form></td>
+		</tr>
+		
+		<tr>
+			<td> Primer Apellido:</td>
+			<td><input type="text" name="firstsurename" value=""></td>
+		</tr>	
+
+		<tr>
+			<td>Segundo Apellido:</td><td><input type="text" name="secondsurename" value=""> </td>
+		</tr>
+		
+		<tr> 
+			<td>DNI:</td>
+			<td><input type="text" name="firstname" value=""></td>
+		</tr>
+
+		<div>
+			<tr> 
+				<td>Genero:</td>
+				<td>
+					<input type="radio" name="gender" value="male" checked>Soy Hombre<br>
+					<input type="radio" name="gender" value="female">Soy Mujer<br>
+				</td>	
+			</tr>	
+		</div>
+
+		<tr> 
+			<td>Dirección:</td>
+			<td><input type="text" name="firstname" value=""></td>
+		</tr>
+
+		<tr>
+			<td>Ciudad:</td>
+			<td><select name="ciudad">
+				<option value="Vacio"></option>
+				<option value="Palma">Palma</option>
+				<option value="Ciudad">Inca</option>
+				<option value="Ciudad">Louissiana</option>	
+			</select></td>     
+		</tr>	
+
+		<tr>
+		<td>Aficiones:</td>
+			<td><input type="checkbox" name="vehicle1" value="Bike"> Juegos<br>
+				<input type="checkbox" name="vehicle1" value="Bike"> Lectura<br>
+				<input type="checkbox" name="vehicle1" value="Bike"> Música<br>
+				<input type="checkbox" name="vehicle2" value="Car"> Otros
+			</td>				
+		</tr>
+		
+
+		<td align= "center" colspan="3"> <input type="submit" value="Submit"></td>
+		
+	</table>
+</body>
+</html>
