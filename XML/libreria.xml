@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<libreria>
+    <libro codigo="1">
+        <titulo>harry potter y la orden del fenix</titulo>
+            <isbn>978-8478887423</isbn>
+            <autor>J.K Rowling</autor>
+            <idioma>Trad. al castellano</idioma>
+            <fecha_edicion>21/06/2003</fecha_edicion>
+            <edicion>Salamandra</edicion>
+            <paginas>893</paginas>
+        <web_compra>https://www.amazon.es/Harry-Potter-Orden-Del-Fenix/dp/8478887423</web_compra>
+    </libro>
+
+    <libro codigo="2">
+        <titulo>Mision imposible</titulo>
+            <isbn>978-8427021364</isbn>
+            <autor>Peter Barsocchini</autor>
+            <idioma>Español</idioma>
+            <paginas>192</paginas>
+            <fecha_edicion>1/09/1996</fecha_edicion>
+            <edicion>Planeta</edicion>
+        <web_compra>https://www.amazon.es/Mision-imposible-Peter-Barsocchini/dp/8427021364/ref=sr_1_1?ie=UTF8qid=1508517969sr=8-1keywords=mision+imposible+libro</web_compra>
+    </libro>
+
+    <libro codigo="3">
+        <titulo>El Quijote</titulo>
+            <isbn>978-9856748</isbn>
+            <autor>Miguel de Cervantes</autor>
+            <idioma>Español</idioma>
+            <paginas>1106</paginas>
+            <fecha_edicion>25/05/2016</fecha_edicion>
+            <edicion>Magia</edicion>
+        <web_compra>https://www.casadellibro.com/libro-el-quijote/9788467041927/2330815</web_compra>
+    </libro>
+
+    <libro codigo="4">
+        <titulo>El nombre del viento</titulo>
+            <isbn>978-849908247</isbn>
+            <autor>Patrick Rothfuss</autor>
+            <idioma>Español</idioma>
+            <paginas>873</paginas>
+            <fecha_edicion>25/10/2016</fecha_edicion>
+            <edicion>Planeta</edicion>
+        <web_compra>https://www.casadellibro.com/libro-el-nombre-del-viento/9788499082479/1819660</web_compra>
+    </libro>
+
+    <libro codigo="5">
+        <titulo>Muerte en Venecia</titulo>
+            <isbn>978-8435018838</isbn>
+            <autor>Thomas Mann</autor>
+            <idioma>Español</idioma>
+            <paginas>192</paginas>
+            <fecha_edicion>09/09/2009</fecha_edicion>
+            <edicion>Pocket</edicion>
+        <web_compra>https://www.casadellibro.com/libro-muerte-en-venecia/9788416259281/2625384</web_compra>
+    </libro>
+
+</libreria>
